@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keemo38
-- 👀 I’m interested in cloud, dev, and security 
-- 🌱 I’m currently learning to build cloud solutions
-- 💞️ I’m looking to collaborate on cloud architects, learning devops and implementing security practices in the cloud. 
+- 👀 I’m interested in cloud, IAM, and security 
+- 🌱 I’m currently learning to build better cloud/IAM solutions
+- 💞️ I’m looking to collaborate on cloud architects, learning  and imore advanced IAM techinques and implementing security practices in the cloud. 
 - 📫 How to reach me ...
 
 <!---
